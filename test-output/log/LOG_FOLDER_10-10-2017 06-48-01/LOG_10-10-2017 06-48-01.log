@@ -1,0 +1,70 @@
+2017-10-10 18:48:01 INFO  Log:12 - ****************************************************************************************
+2017-10-10 18:48:01 INFO  Log:14 - $$$$$$$$$$$$$$$$$$$$$                 firstTestCase       $$$$$$$$$$$$$$$$$$$$$$$$$
+2017-10-10 18:48:01 INFO  Log:16 - ****************************************************************************************
+2017-10-10 18:48:08 INFO  Log:28 - Page Factory initialized
+2017-10-10 18:48:09 INFO  Log:28 - Demo URL Launched
+2017-10-10 18:48:09 INFO  Log:28 - Wait for element User Name text box
+2017-10-10 18:48:09 INFO  Log:28 - Enter text: User Name text box
+2017-10-10 18:48:09 INFO  Log:28 - HomePage.loginUser - username entered
+2017-10-10 18:48:09 INFO  Log:28 - Wait for element Password text box
+2017-10-10 18:48:09 INFO  Log:28 - Enter text: Password text box
+2017-10-10 18:48:09 INFO  Log:28 - HomePage.loginUser - password entered
+2017-10-10 18:48:09 INFO  Log:28 - Wait for element Login button
+2017-10-10 18:48:10 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:10 INFO  Log:28 - Element Clicked: Login button
+2017-10-10 18:48:12 INFO  Log:28 - HomePage.loginUser - login button clicked
+2017-10-10 18:48:12 INFO  Log:28 - Page Factory initialized
+2017-10-10 18:48:12 INFO  Log:28 - Wait for element One Way radio button
+2017-10-10 18:48:12 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:12 INFO  Log:28 - Element Clicked: One Way radio button
+2017-10-10 18:48:13 INFO  Log:28 - FlightFinderPage.findFlights - One way Radio Button clicked
+2017-10-10 18:48:13 INFO  Log:28 - Wait for element From Port drop down
+2017-10-10 18:48:13 INFO  Log:28 - Select element: From Port drop down
+2017-10-10 18:48:13 INFO  Log:28 - FlightFinderPage.findFlights - Depart From Dropdown clicked
+2017-10-10 18:48:13 INFO  Log:28 - Wait for element From Day drop down
+2017-10-10 18:48:13 INFO  Log:28 - Select element: From Day drop down
+2017-10-10 18:48:13 INFO  Log:28 - FlightFinderPage.findFlights - Depart Date Dropdown clicked
+2017-10-10 18:48:13 INFO  Log:28 - Wait for element Business radio button
+2017-10-10 18:48:13 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:13 INFO  Log:28 - Element Clicked: Business radio button
+2017-10-10 18:48:13 INFO  Log:28 - FlightFinderPage.findFlights - Business Radio Button clicked
+2017-10-10 18:48:14 INFO  Log:28 - Wait for element Find Flights button
+2017-10-10 18:48:14 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:14 INFO  Log:28 - Element Clicked: Find Flights button
+2017-10-10 18:48:14 INFO  Log:28 - FlightFinderPage.findFlights - Find Flights Button clicked
+2017-10-10 18:48:14 INFO  Log:22 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2017-10-10 18:48:14 INFO  Log:12 - ****************************************************************************************
+2017-10-10 18:48:14 INFO  Log:14 - $$$$$$$$$$$$$$$$$$$$$                 secondTestCase       $$$$$$$$$$$$$$$$$$$$$$$$$
+2017-10-10 18:48:14 INFO  Log:16 - ****************************************************************************************
+2017-10-10 18:48:20 INFO  Log:28 - Page Factory initialized
+2017-10-10 18:48:21 INFO  Log:28 - Demo URL Launched
+2017-10-10 18:48:21 INFO  Log:28 - Wait for element User Name text box
+2017-10-10 18:48:21 INFO  Log:28 - Enter text: User Name text box
+2017-10-10 18:48:21 INFO  Log:28 - HomePage.loginUser - username entered
+2017-10-10 18:48:21 INFO  Log:28 - Wait for element Password text box
+2017-10-10 18:48:21 INFO  Log:28 - Enter text: Password text box
+2017-10-10 18:48:21 INFO  Log:28 - HomePage.loginUser - password entered
+2017-10-10 18:48:21 INFO  Log:28 - Wait for element Login button
+2017-10-10 18:48:22 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:22 INFO  Log:28 - Element Clicked: Login button
+2017-10-10 18:48:24 INFO  Log:28 - HomePage.loginUser - login button clicked
+2017-10-10 18:48:24 INFO  Log:28 - Page Factory initialized
+2017-10-10 18:48:24 INFO  Log:28 - Wait for element One Way radio button
+2017-10-10 18:48:24 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:24 INFO  Log:28 - Element Clicked: One Way radio button
+2017-10-10 18:48:24 INFO  Log:28 - FlightFinderPage.findFlights - One way Radio Button clicked
+2017-10-10 18:48:24 INFO  Log:28 - Wait for element From Port drop down
+2017-10-10 18:48:24 INFO  Log:28 - Select element: From Port drop down
+2017-10-10 18:48:24 INFO  Log:28 - FlightFinderPage.findFlights - Depart From Dropdown clicked
+2017-10-10 18:48:24 INFO  Log:28 - Wait for element From Day drop down
+2017-10-10 18:48:25 INFO  Log:28 - Select element: From Day drop down
+2017-10-10 18:48:25 INFO  Log:28 - FlightFinderPage.findFlights - Depart Date Dropdown clicked
+2017-10-10 18:48:25 INFO  Log:28 - Wait for element Business radio button
+2017-10-10 18:48:25 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:25 INFO  Log:28 - Element Clicked: Business radio button
+2017-10-10 18:48:25 INFO  Log:28 - FlightFinderPage.findFlights - Business Radio Button clicked
+2017-10-10 18:48:25 INFO  Log:28 - Wait for element Find Flights button
+2017-10-10 18:48:25 INFO  Log:28 - Screenshot captured
+2017-10-10 18:48:25 INFO  Log:28 - Element Clicked: Find Flights button
+2017-10-10 18:48:26 INFO  Log:28 - FlightFinderPage.findFlights - Find Flights Button clicked
+2017-10-10 18:48:26 INFO  Log:22 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
