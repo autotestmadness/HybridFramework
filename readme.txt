@@ -1,5 +1,6 @@
 Functionality in Hybrid Framework:
 
+This is master branch
 Maven project. We will not download individual jars as we did earlier, rather we will add dependencies in our pom.xml file.
 And of course, it will a Selenium, TestNG project.
 We will include like Page Object Modeling, Page Factory concepts in our framework.
