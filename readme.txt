@@ -1,7 +1,7 @@
 Functionality in Hybrid Framework:
 
 
-THIS IS A NEW LINE ADDED FOR NEWFRAMEWORK BRANCH...
+THIS LINE IS IN MASTER BRANCH AND IS FOR NO FAST FORWARD
 
 Maven project. We will not download individual jars as we did earlier, rather we will add dependencies in our pom.xml file.
 And of course, it will a Selenium, TestNG project.
