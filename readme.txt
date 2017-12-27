@@ -1,6 +1,6 @@
 Functionality in Hybrid Framework:
 
-
+THIS LINE IS IN NEWFRAMEWORK BRANCH TO TEST FAST FORWARD
 THIS LINE IS IN MASTER BRANCH AND IS FOR NO FAST FORWARD
 
 Maven project. We will not download individual jars as we did earlier, rather we will add dependencies in our pom.xml file.
