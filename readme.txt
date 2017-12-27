@@ -1,8 +1,7 @@
 Functionality in Hybrid Framework:
 
-THIS LINE IS FOR RECURSIVE BRANCH
-THIS LINE IS IN NEWFRAMEWORK BRANCH TO TEST FAST FORWARD
-THIS LINE IS IN MASTER BRANCH
+THIS LINE IS FOR MERGE CONFLICT BRANCH
+OTHER COMMENTS REMOVED
 
 Maven project. We will not download individual jars as we did earlier, rather we will add dependencies in our pom.xml file.
 And of course, it will a Selenium, TestNG project.
