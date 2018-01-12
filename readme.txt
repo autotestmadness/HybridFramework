@@ -1,6 +1,6 @@
 Functionality in Hybrid Framework:
 
-
+This is a change in HybridFramework directory.
 THIS LINE IS FOR MERGE CONFLICT BRANCH
 OTHER COMMENTS REMOVED
 
